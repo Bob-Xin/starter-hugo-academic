@@ -6,7 +6,7 @@ title: Lanxin Rui
 superuser: true
 
 # Role/position/tagline
-role: Post doc researcher
+role: Post-doc researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
