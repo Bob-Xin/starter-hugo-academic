@@ -14,7 +14,7 @@ organizations:
   url: http://www.sysu.edu.cn/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lanxin Rui is a post-doctoral researcher of xxx at Sun Yat-sen University. Her research interests include Chinese image art and contemporary art.
+# bio: Lanxin Rui is a post-doctoral researcher of xxx at Sun Yat-sen University. Her research interests include Chinese image art and contemporary art.
 
 # Interests to show in About widget
 interests:
