@@ -48,9 +48,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, #enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "fakerui116@gmail.com"
@@ -61,4 +61,4 @@ highlight_name: true
 
 My work is about uncovering the material heritage of post-socialism in China and translating it in the form of images and archives. China experienced dramatic political and economic changes in the late 80s. The effects of these changes have crystallized into my memories of childhood growing up in a collectivist compound. I come from a family of railroad workers. My growing-up experiences led me to become interested in China's infrastructure in the last century. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
